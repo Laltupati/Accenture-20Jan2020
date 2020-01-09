@@ -1,2 +1,2 @@
 sudo yum update -y
-sudo yum install docker-ce
+sudo yum install docker
